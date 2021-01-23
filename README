@@ -1,0 +1,13 @@
+rust_tracer is a ray tracer coded in Rust to become more familiar
+with the language.
+
+End goal functionalities:
+
+- Support for reflective and transparent materials
+- Support for .obj files
+- Multiple output formats: png, ppm, jpeg
+
+The current project is based on the following projects:
+
+- ssloy's tinyraytracer: https://github.com/ssloy/tinyraytracer
+- ekzhang's rpt: https://github.com/ekzhang/rpt
